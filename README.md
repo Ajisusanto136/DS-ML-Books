@@ -46,6 +46,13 @@ This book introduces students with little or no prior programming experience to 
 
 -------------------------------------------------------------
 
+*Data Driven Science & Engineering: Machine Learning, Dynamical Systems, and Control*
+
+Authors: Steven L. Brunton & J. Nathan Kutz
+
+This book is about the growing intersection of data-driven methods, applied optimization, and the classical fields of engineering mathematics and mathematical physics.
+
+-------------------------------------------------------------
 
 
 
