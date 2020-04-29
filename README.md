@@ -54,7 +54,29 @@ This book is about the growing intersection of data-driven methods, applied opti
 
 -------------------------------------------------------------
 
+*A Primer On Scientific Programming with Python* 
 
+Author: Hans Petter Langtangen
+
+The aim of this book is to teach computer programming using examples from mathematics and the natural sciences. We have chosen to use the Python programming language because it combines remarkable expressive power with very clean, simple, and compact syntax. Python is easy to learn and very well suited for an introduction to computer programming. Python is also quite similar to MATLAB and a good language for doing mathematical computing.The examples in this book integrate programming with applications to mathe- matics, physics, biology, and finance. The reader is expected to have knowledge of basic one-variable calculus as taught in mathematics-intensive programs in high schools. It is certainly an advantage to take a university calculus course in parallel, preferably containing both classical and numerical aspects of calculus. Although not strictly required, a background in high school physics makes many of the ex- amples more meaningful.
+
+-------------------------------------------------------------
+
+*Data Analysis Statistical and Computational Methods for Scientists and Engineers*
+
+Author: Siegmund Brandt
+
+The programs in this book are written in the modern programming language Java.The Java language offers a number of advantages over the older program- ming languages used in earlier editions. It is object-oriented and hence also more readable. It includes access to libraries of user-friendly auxiliary rou- tines, allowing for instance the easy creation of windows for input, output, or graphics. For most popular computers, Java is either preinstalled or can be downloaded from the Internet free of charge.Our Java programs for data analysis and for the production of graphics, including many example programs and solutions to programming problems, can be downloaded from the page extras.springer.com.
+
+-------------------------------------------------------------
+
+*Statistics And Analysis Of Scientific Data*
+
+Author: Massimiliano Bonamente
+
+Across all sciences, a quantitative analysis of data is necessary to assess the significance of experiments, observations, and calculations. This book was written over a period of 10 years, as the author developed an introductory graduate course on statistics and data analysis at the University of Alabama in Huntsville. The author's goal was to put together the material that a student needs for the analysis and statistical interpretation of data, including an extensive set of applications and problems that illustrate the practice of statistical data analysis.
+
+-------------------------------------------------------------
 
 
 
